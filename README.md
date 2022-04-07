@@ -20,6 +20,6 @@ time height velocity mass
 ...
 ```
 
-After compiling and execution. plot.py would show following curves:
+After compiling and execution. `python3 plot.py` would show following curves:
 
 ![](figure.png)
